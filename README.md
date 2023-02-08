@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/Ibrahim-003/juniorProject_3)
+- Live Site URL: [landing page](https://ibrahim-003.github.io/juniorProject_3/)
 
 ## My process
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Use css-grid to make layouts responsive
   
 
 ## Author
