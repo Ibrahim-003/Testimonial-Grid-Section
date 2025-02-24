@@ -1,51 +1,44 @@
-# Frontend Mentor - Testimonials grid section solution
+# Testimonial Grid Section
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
+## Descripción
 
-## Table of contents
+Este proyecto es una sección de cuadrícula de testimonios, diseñada para mostrar testimonios de diferentes personas en un formato atractivo y organizado.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Author](#author)
+## Características
 
-## Overview
+- Diseño responsivo y atractivo
+- Testimonios con imágenes y citas
+- Organización en una cuadrícula visualmente agradable
 
-### The challenge
+## Vista Previa
 
-Users should be able to:
+![Captura del Proyecto](./src/assets/desktop-preview.png)
 
-- View the optimal layout for the site depending on their device's screen size
+## Tecnologías Usadas
 
-### Screenshot
+- **HTML5**
+- **CSS3**
 
-![](./screenshot/desktop.png)
+## Instalación
 
-### Links
+1. Clona el repositorio:
+    ```bash
+    git clone https://github.com/Ibrahim-003/Testimonial-Grid-Section.git
+    ```
 
-- Solution URL: [Repo](https://github.com/Ibrahim-003/juniorProject_3)
-- Live Site URL: [landing page](https://ibrahim-003.github.io/juniorProject_3/)
+2. Navega al directorio del proyecto:
+    ```bash
+    cd Testimonial-Grid-Section
+    ```
 
-## My process
+3. Abre el archivo [index.html](http://_vscodecontentref_/1) en tu navegador web.
 
-### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+## Uso
 
-### What I learned
+1. Abre el archivo [index.html](http://_vscodecontentref_/2) en tu navegador.
+2. La sección de testimonios se mostrará en la interfaz.
 
-Use css-grid to make layouts responsive
-  
+## Autor 👨‍💻
 
-## Author
-
-- Ibrahim Almeyda. 
-- Frontend Mentor - [IbrahimA](https://www.frontendmentor.io/profile/Ibrahim-003)
+Desarrollado por **[Ibrahim Almeyda](https://github.com/Ibrahim-003)**.
